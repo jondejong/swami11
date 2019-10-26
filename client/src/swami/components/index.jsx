@@ -1,7 +1,0 @@
-export * from './team'
-export * from './login'
-export * from './message'
-export * from './navigation'
-export * from './week'
-export * from './pick'
-export * from './app'
